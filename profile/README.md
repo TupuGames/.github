@@ -1,8 +1,11 @@
 # TupuGames
 
 ## Quick links
-| Description | Repo | Project | Discussion |  
-| -------- | ------- | ------- | ------- |
-| Unnamed Reverse Tower Defence | - | - | - |
-| Papercuts | - | - | - |
-| Wizard Scraps | - | - | - |
+### Design Discussions
+
+### Game Projects
+| Description | Repo | Project |  
+| -------- | ------- | ------- |
+| Unnamed Reverse Tower Defence | - | - |
+| Papercuts | - | - |
+| Wizard Scraps | - | - |
