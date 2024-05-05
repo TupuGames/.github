@@ -1,4 +1,6 @@
-![tupu_logo](https://github.com/TupuGames/.github/assets/14806075/ba478903-c859-4ba9-ab77-ad89486c042d)
+<div style="text-align: center">
+<img src="https://github.com/TupuGames/.github/assets/14806075/ba478903-c859-4ba9-ab77-ad89486c042d">
+</div>
 
 ## Quick links
 ### Design Discussions
