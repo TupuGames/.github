@@ -5,8 +5,8 @@
 https://github.com/orgs/TupuGames/discussions
 
 ### Game Projects
-| Description | Repo | Project |  
-| -------- | ------- | ------- |
-| Unnamed Reverse Tower Defence | - | - |
-| Papercuts | - | - |
-| Wizard Scraps | - | - |
+| Description | Repo | Project | Discussions |  
+| -------- | ------- | ------- | ------- |
+| Unnamed Reverse Tower Defence | - | - | - |
+| Papercuts | - | - | - |
+| Wizard Scraps | - | - | - |
