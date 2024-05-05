@@ -1,4 +1,4 @@
-![img](./tupo_logo.png)
+![tupu_logo](https://github.com/TupuGames/.github/assets/14806075/ba478903-c859-4ba9-ab77-ad89486c042d)
 
 ## Quick links
 ### Design Discussions
