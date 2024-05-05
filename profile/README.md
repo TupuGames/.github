@@ -1,4 +1,4 @@
-# TupuGames
+![img](./tupo_logo.png)
 
 ## Quick links
 ### Design Discussions
